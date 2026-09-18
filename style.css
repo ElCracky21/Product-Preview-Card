@@ -10,7 +10,6 @@ body{
     justify-content: center;
     align-items: center;
     background-color: hsl(30, 38%, 92%);
-    margin: 0;
     font-family: 'Montserrat', sans-serif;
 }
 .container{
