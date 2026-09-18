@@ -70,7 +70,7 @@ Just setting flex-direction to column was enough to stack everything for mobile,
 Eziokwu Henry Nnaemeka
 
 Frontend Developer & Cybersecurity Student
-https://elcracky21.github.io/Social-Links-Profile/
+https://elcracky21.github.io/Product-Preview-Card/
 
 ## Acknowledgements
 
